@@ -1,0 +1,18 @@
+{
+  "name": "final_project_tin_s22086",
+  "version": "1.0.0",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql2": "^3.6.3"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "start_dev": "nodemon main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
